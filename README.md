@@ -23,3 +23,9 @@ Yến Nhi
 - SQL
 - Git
 - GitHub
+
+## Progress
+
+- Requirement
+- Test Plan
+- Login Test Scenario
