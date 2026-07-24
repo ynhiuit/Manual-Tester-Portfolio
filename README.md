@@ -203,7 +203,7 @@ Requests included:
 Manual Tester Portfolio
 
 GitHub:
-https://github.com/ynhiuit
+https://github.com/ynhiuit/Manual-Tester-Portfolio
 
 ---
 
